@@ -1,6 +1,6 @@
-# ES6 oop concept
+# ES6 oop concept with webpack
 
-# topic
+## Topic
     - class & object
     - inheritance
     - static method
@@ -8,3 +8,7 @@
     - getter & setter
     - method chainning
     - module & export import
+
+## Setup
+    `npm install`
+    `npm run build`

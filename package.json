@@ -1,0 +1,27 @@
+{
+  "name": "es6-oop",
+  "version": "1.0.0",
+  "description": "es6 oop concept",
+  "main": "main.js",
+  "scripts": {
+    "build": "npx webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasungihan/es6-oop.git"
+  },
+  "keywords": [
+    "es6",
+    "oop"
+  ],
+  "author": "kasun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasungihan/es6-oop/issues"
+  },
+  "homepage": "https://github.com/kasungihan/es6-oop#readme",
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.0"
+  }
+}
